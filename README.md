@@ -35,7 +35,3 @@ The code utilizes the following machine learning steps:
 
 - **Model Evaluation**: The model's performance is evaluated using metrics such as accuracy, precision, recall, and F1-score. This helps assess the model's effectiveness in distinguishing real news from fake news.
 
-
-## License
-
-This project is available under the MIT License. See the [LICENSE](LICENSE) file for details.
